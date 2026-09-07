@@ -16,4 +16,4 @@
 ### 📊 Mis Estadísticas
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FrankyJJTM&theme=dark)
 
-👁️ **Visitas al perfil:** ![Contador](https://komarev.com/ghpvc/?username=FrankyJJTM&color=blue)
+
