@@ -13,7 +13,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 📊 Mis Estadísticas
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FrankyJJTM&theme=dark)
-
 
