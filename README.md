@@ -12,3 +12,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FrankyJJTM&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankyJJTM&layout=compact&theme=dark)
+
+👁️ **Visitas al perfil:** ![Contador](https://komarev.com/ghpvc/?username=FrankyJJTM&color=blue)
